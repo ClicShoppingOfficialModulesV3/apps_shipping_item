@@ -4,6 +4,7 @@
   use ClicShopping\OM\Registry;
 
   $CLICSHOPPING_Item = Registry::get('Item');
+  $CLICSHOPPING_MessageStack = Registry::get('MessageStack');
 
   if ($CLICSHOPPING_MessageStack->exists('Item')) {
     echo $CLICSHOPPING_MessageStack->get('Item');
