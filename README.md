@@ -15,7 +15,7 @@ http://monsite/myAdmin/index.php?A&Shipping\Item
 
 Activate the module in Shipping
 
-All informations about the CliCshopping
+All informations about the ClicShopping
 
  Community : https://www.clicshopping.org
 
